@@ -1,4 +1,4 @@
-### Hi I'am Gus Ramírez 👋
+### Hi I am Gus Ramírez 👋
 
 
 ### More about me...
