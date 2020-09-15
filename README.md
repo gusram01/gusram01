@@ -6,8 +6,8 @@
 ```javascript
 const gus = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Jest],
-  learning: JS always and React
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
+  tools: ['React', 'Node', 'Jest'],
+  learning: ['JS<always>', 'React']
 }
 ```
