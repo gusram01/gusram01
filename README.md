@@ -7,7 +7,7 @@
 const gus = {
   pronouns: "he" | "him",
   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-  tools: ['Angular', 'React', 'Node', 'Jest'],
+  tools: ['Angular', 'Vue', 'React', 'Node', 'Jest'],
   data: ['MongoDB', 'MySQL', 'PostgreSQL'],
   learning: ['python', 'Angular','React', 'MySQL','PostgreSQL']
 }
