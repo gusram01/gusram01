@@ -6,9 +6,9 @@
 ```javascript
 const gus = {
   pronouns: "he" | "him",
-  code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-  tools: ['Angular', 'Vue', 'React', 'Node', 'Jest'],
+  code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python'],
+  tools: ['Angular', 'Vue', 'Node'],
   data: ['MongoDB', 'MySQL', 'PostgreSQL'],
-  learning: ['python', 'Angular','React', 'MySQL','PostgreSQL']
+  learning: [ 'Kotlin', 'React', 'MySQL', 'PostgreSQL']
 }
 ```
