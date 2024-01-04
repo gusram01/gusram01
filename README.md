@@ -31,5 +31,29 @@ Gus.sayHi();
 
 ## Technologies
 
-> ![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript)
+**Programming Languages**
+
+![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
+
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white)
+
+![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white)
+
+**Frontend Frameworks**
+
+![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white)
+
+![Vue](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white)
+
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white)
+
+![Svelte](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&logoColor=white)
+
+**Backend Frameworks**
+
+![Express](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white)
+
+![Fiber](https://img.shields.io/badge/Code-Fiber-informational?style=flat&logo=fiber&logoColor=white)
+
+
 
